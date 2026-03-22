@@ -8,5 +8,4 @@ int main() {
     arr[2] = 3;
 
     delete[] arr;
-    std::cout << arr[1];
 }
