@@ -1,0 +1,3 @@
+/media/HDD/Code/C/Latihan/_2_Pointer/cmake-build-debug/CMakeFiles/_2_Pointer.dir
+/media/HDD/Code/C/Latihan/_2_Pointer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/HDD/Code/C/Latihan/_2_Pointer/cmake-build-debug/CMakeFiles/rebuild_cache.dir

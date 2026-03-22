@@ -1,0 +1,11 @@
+# ninja log v6
+0	16	1774182096195457547	build.ninja	71ed0e1ef77aba68
+0	16	1774182096195457547	/media/HDD/Code/C/Latihan/_2_Pointer/cmake-build-debug/cmake_install.cmake	71ed0e1ef77aba68
+1	160	1774182044550750507	CMakeFiles/_2_Pointer.dir/Test2.cpp.o	fb609ed27ee62343
+0	139	1774172487549068868	CMakeFiles/_2_Pointer.dir/Mahasiswa.cpp.o	46f677eb2a0fe0d7
+1	141	1774172990626740777	CMakeFiles/_2_Pointer.dir/Siswa.cpp.o	3777256d52ff7136
+1	33	1774182065459565381	_2_Pointer	49aa025a96d478dc
+1	145	1774173915659201615	CMakeFiles/_2_Pointer.dir/Test1.cpp.o	9e23b084c70a1e65
+0	137	1774173596615129936	CMakeFiles/_2_Pointer.dir/Test3.cpp.o	809ff5e68b80594b
+0	20	1774182096195457547	build.ninja	71ed0e1ef77aba68
+0	20	1774182096195457547	/media/HDD/Code/C/Latihan/_2_Pointer/cmake-build-debug/cmake_install.cmake	71ed0e1ef77aba68
