@@ -23,7 +23,19 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d98cf58-88e8-412b-84db-aed54fed6d3e" name="Changes" comment="" />
+    <list default="true" id="5d98cf58-88e8-412b-84db-aed54fed6d3e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test5.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test6.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test7.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Test3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2026-03-22T12-21-36-0199.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +53,9 @@
     <option name="cachedIndexableFilesCount" value="12" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="NjOfZReE" />
   </component>
@@ -58,6 +73,12 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="3BIJpG3pZsaLsSvzCL6FD3PZHjd" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectStatusUIService">{
+  &quot;uiKindId&quot;: &quot;Widget&quot;
+}</component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -67,7 +88,12 @@
     "C/C++ File.Siswa.cpp.executor": "Run",
     "C/C++ File.Test2.cpp.executor": "Run",
     "C/C++ File.Test3.cpp.executor": "Run",
+    "C/C++ File.Test4.cpp.executor": "Run",
+    "C/C++ File.Test5.cpp.executor": "Run",
+    "C/C++ File.Test6.cpp.executor": "Run",
+    "C/C++ File.Test7.cpp.executor": "Run",
     "CMake Application._2_Pointer.executor": "Run",
+    "CMake Debug._2_Pointer.executor": "Debug",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
@@ -76,10 +102,12 @@
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "RunOnceActivity.west.config.association.type.startup.service": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "/media/HDD/Code/C/Latihan/_2_Pointer",
     "node.js.detected.package.eslint": "true",
@@ -98,7 +126,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.Test2.cpp">
+  <component name="RunManager" selected="C/C++ File.Test7.cpp">
     <configuration name="_2_Pointer" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="_2_Pointer" TARGET_NAME="_2_Pointer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="_2_Pointer" RUN_TARGET_NAME="_2_Pointer">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -121,13 +149,45 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test4.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="_2_Pointer" TARGET_NAME="Test4.cpp" CONFIG_NAME="Test4.cpp">
+      <option name="sourceFile" value="Test4.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test5.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="_2_Pointer" TARGET_NAME="Test5.cpp" CONFIG_NAME="Test5.cpp">
+      <option name="sourceFile" value="Test5.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test6.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="_2_Pointer" TARGET_NAME="Test6.cpp" CONFIG_NAME="Test6.cpp">
+      <option name="sourceFile" value="Test6.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test7.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="_2_Pointer" TARGET_NAME="Test7.cpp" CONFIG_NAME="Test7.cpp">
+      <option name="sourceFile" value="Test7.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="C/C++ File.Test3.cpp" />
+      <item itemvalue="C/C++ File.Test5.cpp" />
+      <item itemvalue="C/C++ File.Test6.cpp" />
+      <item itemvalue="C/C++ File.Test7.cpp" />
+      <item itemvalue="C/C++ File.Test4.cpp" />
       <item itemvalue="C/C++ File.Test2.cpp" />
       <item itemvalue="CMake Application._2_Pointer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.Test7.cpp" />
+        <item itemvalue="C/C++ File.Test6.cpp" />
+        <item itemvalue="C/C++ File.Test5.cpp" />
+        <item itemvalue="C/C++ File.Test4.cpp" />
         <item itemvalue="C/C++ File.Test2.cpp" />
       </list>
     </recent_temporary>
@@ -141,7 +201,7 @@
       <updated>1774170831880</updated>
       <workItem from="1774170832937" duration="142000" />
       <workItem from="1774170976317" duration="3629000" />
-      <workItem from="1774180961285" duration="1122000" />
+      <workItem from="1774180961285" duration="6952000" />
     </task>
     <servers />
   </component>
