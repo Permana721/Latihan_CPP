@@ -79,7 +79,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "1"
+			"value" : "2"
 		},
 		{
 			"name" : "CMAKE_CACHE_PATCH_VERSION",
@@ -886,6 +886,18 @@
 			"value" : "_2_Pointer"
 		},
 		{
+			"name" : "CMAKE_PROJECT_SPDX_LICENSE",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : ""
+		},
+		{
 			"name" : "CMAKE_RANLIB",
 			"properties" : 
 			[
@@ -927,7 +939,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/permana/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-4.1"
+			"value" : "/home/permana/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-4.2"
 		},
 		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",
