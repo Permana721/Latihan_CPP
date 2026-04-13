@@ -27,43 +27,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d98cf58-88e8-412b-84db-aed54fed6d3e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Contoh1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../_3_Stack/Test2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_1_Struct/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_1_Struct/_1_Mahasiswa/Mahasigma.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_1_Struct/_2_Siswa/Siswa2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_1_Struct/_5_Anggota/Anggota.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_3_Stack/LinkedList.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_1_Struct/_1_Mahasiswa/Mahasigma" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_Struct/_1_Mahasiswa/Mahasigma" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test3" beforeDir="false" afterPath="$PROJECT_DIR$/Test3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-b768c52852cbaa3c0bad.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-0f543a0f96244a9e7937.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-cd6e7c71103116e19e63.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2026-03-22T13-05-39-0349.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-_2_Pointer-Debug-d080bbbdf0e63f7a357c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contoh1" beforeDir="false" afterPath="$PROJECT_DIR$/Contoh1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contoh1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Contoh1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Test1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test2" beforeDir="false" afterPath="$PROJECT_DIR$/Test2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Test2.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/4.1.2/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/4.1.2/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/4.1.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/4.1.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/4.1.2/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/4.1.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/4.1.2/CompilerIdC/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/4.1.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/4.1.2/CompilerIdCXX/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/_2_Pointer.dir/Mahasiswa.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/_2_Pointer.dir/Siswa.cpp.o" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/_2_Pointer.dir/Test1.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/_2_Pointer.dir/Test1.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/_2_Pointer.dir/Test2.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/_2_Pointer.dir/Test3.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/_2_Pointer" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/_2_Pointer" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_3_Stack/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_3_Stack/.idea/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_3_Stack/Test1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../_3_Stack/Test1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_3_Stack/Test1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_3_Stack/Test2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_3_Stack/Test2.cpp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,7 +141,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.Test4.cpp">
+  <component name="RunManager" selected="C/C++ File.Test2.cpp">
     <configuration name="_2_Pointer" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="_2_Pointer" TARGET_NAME="_2_Pointer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="_2_Pointer" RUN_TARGET_NAME="_2_Pointer">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -211,10 +194,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.Test2.cpp" />
+        <item itemvalue="C/C++ File.Contoh1.cpp" />
         <item itemvalue="C/C++ File.Test4.cpp" />
         <item itemvalue="C/C++ File.Test5.cpp" />
-        <item itemvalue="C/C++ File.Contoh1.cpp" />
-        <item itemvalue="C/C++ File.Test2.cpp" />
         <item itemvalue="C/C++ File.Test6.cpp" />
       </list>
     </recent_temporary>
@@ -236,6 +219,7 @@
       <workItem from="1775359446683" duration="1220000" />
       <workItem from="1775745448798" duration="604000" />
       <workItem from="1775776192874" duration="714000" />
+      <workItem from="1776068052130" duration="1506000" />
     </task>
     <servers />
   </component>
