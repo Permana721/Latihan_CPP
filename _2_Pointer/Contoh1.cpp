@@ -1,9 +1,8 @@
 #include <iostream>
+using namespace std;
 
 int main () {
-    char x;
-    char *alamat_x;
-    x = 'a';
-    alamat_x = &x;
-    std::cout << "Nilai variabel x, yaitu " << x << ", disimpan pada alamat " << alamat_x;
+    char x = 'a';
+    char *alamat_x = &x;
+    std::cout << "nilai variabel x adalah: " << x << " \ndan disimpan pada memori: " << (void*)alamat_x << std::endl;
 }
