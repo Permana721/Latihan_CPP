@@ -1,3 +1,11 @@
-//
-// Created by permana on 4/14/26.
-//
+#include <iostream>
+using namespace std;
+
+int main() {
+    int a = 25;
+    int *p;
+
+    p = &a;
+    *p = *p + 25;
+    std::cout << "nilai a adalah " << a;
+}
