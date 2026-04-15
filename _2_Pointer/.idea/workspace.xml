@@ -27,26 +27,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d98cf58-88e8-412b-84db-aed54fed6d3e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../_1_Struct/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../_1_Struct/_1_Mahasiswa/Mahasigma.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../_1_Struct/_2_Siswa/Siswa2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../_1_Struct/_5_Anggota/Anggota.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../_3_Stack/LinkedList.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_1_Struct/_1_Mahasiswa/Mahasigma" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_Struct/_1_Mahasiswa/Mahasigma" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contoh2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contoh3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contoh4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contoh5.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contoh6.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latihan1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latihan2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latihan3.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Contoh1" beforeDir="false" afterPath="$PROJECT_DIR$/Contoh1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Contoh1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Contoh1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Test1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test2" beforeDir="false" afterPath="$PROJECT_DIR$/Test2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Test2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/_2_Pointer.dir/Test1.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/_2_Pointer.dir/Test1.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/_2_Pointer" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/_2_Pointer" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_3_Stack/Test1.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_3_Stack/Test2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_3_Stack/Test2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contoh1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Siswa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_3_Stack/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_3_Stack/.idea/_3_Stack.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_3_Stack/.idea/c_cpp_properties.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_3_Stack/.idea/copilot.data.migration.ask2agent.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_3_Stack/.idea/discord.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_3_Stack/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_3_Stack/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_3_Stack/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_3_Stack/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_3_Stack/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_3_Stack/LinkedList" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_3_Stack/LinkedList.cpp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +106,11 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;C/C++ File.Contoh1.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Contoh2.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Contoh3.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Contoh4.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Contoh5.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Contoh6.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.Siswa.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.Test2.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.Test3.cpp.executor&quot;: &quot;Run&quot;,
@@ -105,6 +118,9 @@
     &quot;C/C++ File.Test5.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.Test6.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.Test7.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.latihan1.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.latihan2.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.latihan3.cpp.executor&quot;: &quot;Run&quot;,
     &quot;CMake Application._2_Pointer.executor&quot;: &quot;Run&quot;,
     &quot;CMake Debug._2_Pointer.executor&quot;: &quot;Debug&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
@@ -141,20 +157,20 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.Test2.cpp">
+  <component name="RunManager" selected="C/C++ File.latihan3.cpp">
     <configuration name="_2_Pointer" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="_2_Pointer" TARGET_NAME="_2_Pointer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="_2_Pointer" RUN_TARGET_NAME="_2_Pointer">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Contoh1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="_2_Pointer" TARGET_NAME="Contoh1.cpp" CONFIG_NAME="Contoh1.cpp">
-      <option name="sourceFile" value="Contoh1.cpp" />
+    <configuration name="Contoh5.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="_2_Pointer" TARGET_NAME="Contoh5.cpp" CONFIG_NAME="Contoh5.cpp">
+      <option name="sourceFile" value="Contoh5.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="_2_Pointer" TARGET_NAME="Test2.cpp" CONFIG_NAME="Test2.cpp">
-      <option name="sourceFile" value="Test2.cpp" />
+    <configuration name="Contoh6.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="_2_Pointer" TARGET_NAME="Contoh6.cpp" CONFIG_NAME="Contoh6.cpp">
+      <option name="sourceFile" value="Contoh6.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -165,40 +181,40 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test4.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="_2_Pointer" TARGET_NAME="Test4.cpp" CONFIG_NAME="Test4.cpp">
-      <option name="sourceFile" value="Test4.cpp" />
+    <configuration name="latihan1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="_2_Pointer" TARGET_NAME="latihan1.cpp" CONFIG_NAME="latihan1.cpp">
+      <option name="sourceFile" value="latihan1.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test5.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="_2_Pointer" TARGET_NAME="Test5.cpp" CONFIG_NAME="Test5.cpp">
-      <option name="sourceFile" value="Test5.cpp" />
+    <configuration name="latihan2.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="_2_Pointer" TARGET_NAME="latihan2.cpp" CONFIG_NAME="latihan2.cpp">
+      <option name="sourceFile" value="latihan2.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test6.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="_2_Pointer" TARGET_NAME="Test6.cpp" CONFIG_NAME="Test6.cpp">
-      <option name="sourceFile" value="Test6.cpp" />
+    <configuration name="latihan3.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="_2_Pointer" TARGET_NAME="latihan3.cpp" CONFIG_NAME="latihan3.cpp">
+      <option name="sourceFile" value="latihan3.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="C/C++ File.Test3.cpp" />
-      <item itemvalue="C/C++ File.Contoh1.cpp" />
-      <item itemvalue="C/C++ File.Test2.cpp" />
-      <item itemvalue="C/C++ File.Test4.cpp" />
-      <item itemvalue="C/C++ File.Test5.cpp" />
-      <item itemvalue="C/C++ File.Test6.cpp" />
+      <item itemvalue="C/C++ File.latihan3.cpp" />
+      <item itemvalue="C/C++ File.latihan1.cpp" />
+      <item itemvalue="C/C++ File.latihan2.cpp" />
+      <item itemvalue="C/C++ File.Contoh5.cpp" />
+      <item itemvalue="C/C++ File.Contoh6.cpp" />
       <item itemvalue="CMake Application._2_Pointer" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="C/C++ File.Test2.cpp" />
-        <item itemvalue="C/C++ File.Contoh1.cpp" />
-        <item itemvalue="C/C++ File.Test4.cpp" />
-        <item itemvalue="C/C++ File.Test5.cpp" />
-        <item itemvalue="C/C++ File.Test6.cpp" />
+        <item itemvalue="C/C++ File.latihan3.cpp" />
+        <item itemvalue="C/C++ File.latihan2.cpp" />
+        <item itemvalue="C/C++ File.latihan1.cpp" />
+        <item itemvalue="C/C++ File.Contoh6.cpp" />
+        <item itemvalue="C/C++ File.Contoh5.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -220,6 +236,14 @@
       <workItem from="1775745448798" duration="604000" />
       <workItem from="1775776192874" duration="714000" />
       <workItem from="1776068052130" duration="1506000" />
+      <workItem from="1776080215586" duration="2153000" />
+      <workItem from="1776086913496" duration="499000" />
+      <workItem from="1776120002600" duration="400000" />
+      <workItem from="1776120438162" duration="3057000" />
+      <workItem from="1776212156440" duration="577000" />
+      <workItem from="1776212760755" duration="3629000" />
+      <workItem from="1776222541626" duration="520000" />
+      <workItem from="1776223707710" duration="1981000" />
     </task>
     <servers />
   </component>
