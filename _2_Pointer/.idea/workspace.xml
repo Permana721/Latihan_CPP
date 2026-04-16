@@ -27,34 +27,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d98cf58-88e8-412b-84db-aed54fed6d3e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Contoh2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Contoh3.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Contoh4.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Contoh5.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Contoh6.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/latihan1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/latihan2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/latihan3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_3_LinkedList/LinkedList.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Contoh1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Siswa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_3_Stack/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_3_Stack/.idea/_3_Stack.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_3_Stack/.idea/c_cpp_properties.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_3_Stack/.idea/copilot.data.migration.ask2agent.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_3_Stack/.idea/discord.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_3_Stack/.idea/editor.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_3_Stack/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_3_Stack/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_3_Stack/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_3_Stack/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_3_Stack/LinkedList" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_3_Stack/LinkedList.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_3_LinkedList/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../_3_LinkedList/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_3_LinkedList/LinkedList" beforeDir="false" afterPath="$PROJECT_DIR$/../_3_LinkedList/LinkedList" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_3_LinkedList/LinkedList.c++" beforeDir="false" afterPath="$PROJECT_DIR$/../_3_LinkedList/LinkedList.c++" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,55 +80,55 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;C/C++ File.Contoh1.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Contoh2.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Contoh3.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Contoh4.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Contoh5.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Contoh6.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Siswa.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Test2.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Test3.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Test4.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Test5.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Test6.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Test7.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.latihan1.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.latihan2.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.latihan3.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application._2_Pointer.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Debug._2_Pointer.executor&quot;: &quot;Debug&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.west.config.association.type.startup.service&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/media/HDD/Code/C/Latihan/_2_Pointer&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/media/HDD/Code/C/Latihan/_2_Pointer/main.cpp&quot;,
-    &quot;org.rust.first.attach.projects&quot;: &quot;true&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.Contoh1.cpp.executor": "Run",
+    "C/C++ File.Contoh2.cpp.executor": "Run",
+    "C/C++ File.Contoh3.cpp.executor": "Run",
+    "C/C++ File.Contoh4.cpp.executor": "Run",
+    "C/C++ File.Contoh5.cpp.executor": "Run",
+    "C/C++ File.Contoh6.cpp.executor": "Run",
+    "C/C++ File.Siswa.cpp.executor": "Run",
+    "C/C++ File.Test2.cpp.executor": "Run",
+    "C/C++ File.Test3.cpp.executor": "Run",
+    "C/C++ File.Test4.cpp.executor": "Run",
+    "C/C++ File.Test5.cpp.executor": "Run",
+    "C/C++ File.Test6.cpp.executor": "Run",
+    "C/C++ File.Test7.cpp.executor": "Run",
+    "C/C++ File.latihan1.cpp.executor": "Run",
+    "C/C++ File.latihan2.cpp.executor": "Run",
+    "C/C++ File.latihan3.cpp.executor": "Run",
+    "CMake Application._2_Pointer.executor": "Run",
+    "CMake Debug._2_Pointer.executor": "Debug",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "RunOnceActivity.west.config.association.type.startup.service": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/media/HDD/Code/C/Latihan/_3_LinkedList",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/media/HDD/Code/C/Latihan/_2_Pointer/main.cpp",
+    "org.rust.first.attach.projects": "true",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -200,13 +177,13 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="C/C++ File.Test3.cpp" />
-      <item itemvalue="C/C++ File.latihan3.cpp" />
-      <item itemvalue="C/C++ File.latihan1.cpp" />
-      <item itemvalue="C/C++ File.latihan2.cpp" />
+      <item itemvalue="CMake Application._2_Pointer" />
       <item itemvalue="C/C++ File.Contoh5.cpp" />
       <item itemvalue="C/C++ File.Contoh6.cpp" />
-      <item itemvalue="CMake Application._2_Pointer" />
+      <item itemvalue="C/C++ File.Test3.cpp" />
+      <item itemvalue="C/C++ File.latihan1.cpp" />
+      <item itemvalue="C/C++ File.latihan2.cpp" />
+      <item itemvalue="C/C++ File.latihan3.cpp" />
     </list>
     <recent_temporary>
       <list>
@@ -244,6 +221,7 @@
       <workItem from="1776212760755" duration="3629000" />
       <workItem from="1776222541626" duration="520000" />
       <workItem from="1776223707710" duration="1981000" />
+      <workItem from="1776300911885" duration="170000" />
     </task>
     <servers />
   </component>

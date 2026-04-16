@@ -1,5 +1,5 @@
-#include <iostream> // Mengimpor library iostream untuk operasi input-output (seperti cin dan cout)
-using namespace std; // Menggunakan namespace standar C++ agar tidak perlu menulis std:: sebelum cout/cin
+#include <iostream>
+using namespace std;
 
 struct TNode{
     int data; // Variabel untuk menyimpan nilai/data integer pada node
